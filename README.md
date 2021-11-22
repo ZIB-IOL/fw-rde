@@ -1,6 +1,7 @@
 # Interpretable Neural Networks with Frank-Wolfe: Sparse Relevance Maps and Relevance Orderings
 
 [![GitHub license](https://img.shields.io/github/license/ZIB-IOL/fw-rde)](https://github.com/ZIB-IOL/fw-rde/blob/master/LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5718781.svg)](https://doi.org/10.5281/zenodo.5718781)
 [![made-with-julia](https://img.shields.io/badge/Made%20with-Julia-1f425f.svg)](https://www.julialang.org/)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![made-with-tensorflow](https://img.shields.io/badge/Made%20with-Tensorflow-1f425f.svg)](https://tensorflow.org/)
