@@ -38,11 +38,11 @@ This should print all the installed `Julia` and `Python` packages.
 
 ## Usage
 
-The script `rde.jl` can be used to obtain **sparse** relevance mappings.
+The script [`rde.jl`](rde.jl) can be used to obtain **sparse** relevance mappings.
 
-The script `rde_birkhoff.jl` can be used to obtain relevance **orderings** with **deterministic** Frank-Wolfe algorithms.
+The script [`rde_birkhoff.jl`](rde_birkhoff.jl) can be used to obtain relevance **orderings** with **deterministic** Frank-Wolfe algorithms.
 
-The script `rde_birkhoff_stochastic.jl` can be used to obtain relevance **orderings** with **stochastic** Frank-Wolfe algorithms.
+The script [`rde_birkhoff_stochastic.jl`](rde_birkhoff_stochastic.jl) can be used to obtain relevance **orderings** with **stochastic** Frank-Wolfe algorithms.
 
 ## License
 
