@@ -1,6 +1,6 @@
 # Interpretable Neural Networks with Frank-Wolfe: Sparse Relevance Maps and Relevance Orderings
 
-[![GitHub license](https://img.shields.io/github/license/jmaces/fw-rde)](https://github.com/jmaces/fw-rde/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/ZIB-IOL/fw-rde)](https://github.com/ZIB-IOL/fw-rde/blob/master/LICENSE)
 [![made-with-julia](https://img.shields.io/badge/Made%20with-Julia-1f425f.svg)](https://www.julialang.org/)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![made-with-tensorflow](https://img.shields.io/badge/Made%20with-Tensorflow-1f425f.svg)](https://tensorflow.org/)
@@ -38,11 +38,11 @@ This should print all the installed `Julia` and `Python` packages.
 
 ## Usage
 
-The script `rde.jl` can be used to obtain **sparse** relevance mappings.
+The script [`rde.jl`](rde.jl) can be used to obtain **sparse** relevance mappings.
 
-The script `rde_birkhoff.jl` can be used to obtain relevance **orderings** with **deterministic** Frank-Wolfe algorithms.
+The script [`rde_birkhoff.jl`](rde_birkhoff.jl) can be used to obtain relevance **orderings** with **deterministic** Frank-Wolfe algorithms.
 
-The script `rde_birkhoff_stochastic.jl` can be used to obtain relevance **orderings** with **stochastic** Frank-Wolfe algorithms.
+The script [`rde_birkhoff_stochastic.jl`](rde_birkhoff_stochastic.jl) can be used to obtain relevance **orderings** with **stochastic** Frank-Wolfe algorithms.
 
 ## License
 
