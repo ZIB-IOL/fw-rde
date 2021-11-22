@@ -1,0 +1,13 @@
+name: rde
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - h5py=2.10.0
+  - pillow=8.0.1
+  - python=3.7.8
+  - numpy=1.17
+  - tensorflow-gpu=1.15
+  - pip
+  - pip:
+    - keras-adf==19.1.0
